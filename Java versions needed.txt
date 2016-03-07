@@ -1,0 +1,2 @@
+Client: 			jre1.8.0_66
+Server compiler: 	jdk1.8.0_66
